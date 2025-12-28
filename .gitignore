@@ -98,4 +98,14 @@ InitTestScene*.unity*
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 
+# Jetbrains IDE
 .idea
+
+/[Pp]ackages/
+
+![Pp]ackages/manifest.json
+![Pp]ackages/packages-lock.json
+/[Aa]ssets/[Pp]lugins/
+/[Aa]ssets/[Pp]lugins.meta
+/[Aa]ssets/[Zz]_[Ii]mported/
+/[Aa]ssets/[Zz]_[Ii]mported.meta
